@@ -1,0 +1,32 @@
+/*Criar o Banco de Dados e selecioná-lo para uso*/
+CREATE DATABASE senai;
+USE senai;
+
+/*Mostrar o banco criado*/
+SHOW DATABASES;
+
+CREATE TABLE aluno (
+	id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(255),
+    data_Nascimento DATE
+);
+
+/*Mostrar que a tabela foi criada*/
+SHOW TABLES;
+SELECT * FROM aluno;
+
+/*Mostrar que a tabela foi importada*/
+SELECT * FROM aluno;
+
+/*Ordenar os elementos pela data de nascimento*/
+SELECT *
+FROM aluno
+ORDER BY data_Nascimento ASC;
+
+/*E em ordem decrescente também*/
+SELECT *
+FROM aluno
+ORDER BY data_Nascimento DESC;
+
+/*Surpresinha inesquecível*/
+DROP TABLE aluno;
