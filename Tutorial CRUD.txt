@@ -1,0 +1,20 @@
+Primero é necessário criar a Base de Dados (CREATE DATABASE);
+Depois é necessário selecioná-la e usá-la (USE);
+
+Agora é hora de criar uma tabela com seus atributos (CREATE TABLE);
+
+Lembre sempre de verificar se foi criado corretamente (SELECT);
+
+Hora do EXCEL! Crie uma planilha e coloque alguns elementos e faça download como .csv;
+
+Vá na aba "Schemas" e clique no botão de atualizar;
+Selecione a sua base de dados e clique com o botão direito, depois em Table Data Import Wizard;
+Procure e selecione o seu arquivo .csv e clique em next;
+Vá em "Use existing table" e selecione a tabela que você acabou de criar e next;
+Confira se todos os dados estão corretos e next;
+Next, next e finish;
+
+Depois confira se deu certo (SELECT);
+Ordene como você quiser usando o comando SELECT com suas diversas funções;
+
+Por fim use o DROP TABLE para uma surpresa.
