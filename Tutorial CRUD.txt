@@ -1,4 +1,7 @@
-Primero é necessário criar a Base de Dados (CREATE DATABASE);
+Para começar é necessário iniciar o XAMPP e dar start nos servidores de Apache e MYSQL;
+Depois deve-se abrir o MYSQL Workbench e criar uma conexão no "+" e dar um nome;
+
+Agora é hora do banco propriamente dito, primeiro crie a Base de Dados (CREATE DATABASE);
 Depois é necessário selecioná-la e usá-la (USE);
 
 Agora é hora de criar uma tabela com seus atributos (CREATE TABLE);
