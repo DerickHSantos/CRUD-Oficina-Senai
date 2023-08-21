@@ -21,3 +21,5 @@ Depois confira se deu certo (SELECT);
 Ordene como você quiser usando o comando SELECT com suas diversas funções;
 
 Por fim use o DROP TABLE para uma surpresa.
+
+Link da planilha pronta: https://docs.google.com/spreadsheets/d/1RbTyX8ArtpYzVW-49uxdcDMiBQcs6w_8Bsgeyw777wc/edit?usp=drivesdk
